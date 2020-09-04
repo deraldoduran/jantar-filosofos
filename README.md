@@ -1,4 +1,5 @@
 # jantar-filosofos
+## https://www.revista-programar.info/artigos/threads-semaforos-e-deadlocks-o-jantar-dos-filosofos/
 ```java
 public class Jantar
 {
